@@ -18,7 +18,7 @@ const Policy = () => {
             It helps us to improve the content of our website or retail store
             environment.
           </p>
-          <p>add privacy policy</p>
+          <p>It permits us to better understand our customers' needs.</p>
           <p>add privacy policy</p>
           <p>add privacy policy</p>
           <p>add privacy policy</p>
