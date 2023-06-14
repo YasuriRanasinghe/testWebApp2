@@ -13,6 +13,7 @@ const Policy = () => {
           />
         </div>
         <div className="col-md-4">
+          <h1>HOW WE USE YOUR INFORMATION</h1>
           <p>add privacy policy</p>
           <p>
             It helps us to improve the content of our website or retail store
