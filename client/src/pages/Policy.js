@@ -19,16 +19,18 @@ const Policy = () => {
             used for a number of purposes:
           </h6>
           <p>
-            It helps us to improve the content of our website or retail store
+            * It helps us to improve the content of our website or retail store
             environment.
           </p>
-          <p>It permits us to better understand our customers' needs.</p>
-          <p>It enables us to communicate with our customers.</p>
+          <p>* It permits us to better understand our customers' needs.</p>
+          <p>* It enables us to communicate with our customers.</p>
           <p>
-            It is used to make business and financial decisions within our
+            * It is used to make business and financial decisions within our
             company.
           </p>
-          <p>It allows us to comply with legal and regulatory requirements.</p>
+          <p>
+            * It allows us to comply with legal and regulatory requirements.
+          </p>
           <p>
             Unless consent is given, we do not use or disclose your personal
             information for the purposes other than those for which it was
