@@ -6,8 +6,8 @@ export const Prices = [
   },
   {
     _id: 1,
-    name: "Rs. 1001 to 2000",
-    array: [1001, 2000],
+    name: "Rs. 1001.00 to 2000.00",
+    array: [1001.0, 2000.0],
   },
   {
     _id: 2,
