@@ -14,12 +14,13 @@ const About = () => {
         </div>
         <div className="col-md-4">
           <p className="text-justify mt-2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            officiis obcaecati esse tempore unde ratione, eveniet mollitia,
-            perferendis eius temporibus dicta blanditiis doloremque explicabo
-            quasi sunt vero optio cum aperiam vel consectetur! Laborum enim
-            accusantium atque, excepturi sapiente amet! Tenetur ducimus aut
-            commodi illum quidem neque tempora nam.
+            At Our Shoe Company, we believe style shouldn't demand a huge
+            investment of time or money. Style should be comfortable, accessible
+            and easy to achieve. That's why our footwear feels as good as it
+            looks, effortlessly taking you from the boardroom to the restaurant,
+            to the park with your family. We strive to ensure your shopping
+            experience is easy on your wallet, and your schedule, by delivering
+            fashion and value to everyone in your household.
           </p>
         </div>
       </div>
