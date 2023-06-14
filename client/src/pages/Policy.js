@@ -24,7 +24,7 @@ const Policy = () => {
             It is used to make business and financial decisions within our
             company.
           </p>
-          <p>add privacy policy</p>
+          <p>It allows us to comply with legal and regulatory requirements.</p>
           <p>add privacy policy</p>
         </div>
       </div>
