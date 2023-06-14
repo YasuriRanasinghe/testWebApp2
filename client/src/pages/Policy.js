@@ -20,7 +20,10 @@ const Policy = () => {
           </p>
           <p>It permits us to better understand our customers' needs.</p>
           <p>It enables us to communicate with our customers.</p>
-          <p>add privacy policy</p>
+          <p>
+            It is used to make business and financial decisions within our
+            company.
+          </p>
           <p>add privacy policy</p>
           <p>add privacy policy</p>
         </div>
