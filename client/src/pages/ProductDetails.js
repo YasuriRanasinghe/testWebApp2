@@ -14,7 +14,7 @@ const ProductDetails = () => {
   useEffect(() => {
     if (params?.slug) getProduct();
   }, [params?.slug]);
-  //getProduct
+  //getProducts
   const getProduct = async () => {
     try {
       const { data } = await axios.get(
