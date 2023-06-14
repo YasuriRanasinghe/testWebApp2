@@ -259,7 +259,7 @@ export const productListController = async (req, res) => {
 export const searchProductController = async (req, res) => {
   try {
     const { keyword } = req.params;
-    const product = await productModel
+    const results = await productModel
       .find({
         $or: [
           { name: { $regex: keyword, $options: "i" } },
