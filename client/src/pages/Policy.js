@@ -13,8 +13,11 @@ const Policy = () => {
           />
         </div>
         <div className="col-md-4">
-          <h1>HOW WE USE YOUR INFORMATION</h1>
-          <p>add privacy policy</p>
+          <h4>HOW WE USE YOUR INFORMATION</h4>
+          <h2>
+            Personal and non-personal information that we collect from you is
+            used for a number of purposes:
+          </h2>
           <p>
             It helps us to improve the content of our website or retail store
             environment.
