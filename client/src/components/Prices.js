@@ -22,11 +22,11 @@ export const Prices = [
   {
     _id: 4,
     name: "Rs. 4001.00 to 5000.00",
-    array: [4001, 5000],
+    array: [4001.0, 5000.0],
   },
   {
     _id: 4,
-    name: "Rs. 5001 or more",
-    array: [5001, 10000],
+    name: "Rs. 5001.00 or more",
+    array: [5001.0, 10000.0],
   },
 ];
