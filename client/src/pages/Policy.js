@@ -14,10 +14,10 @@ const Policy = () => {
         </div>
         <div className="col-md-4">
           <h4>HOW WE USE YOUR INFORMATION</h4>
-          <h2>
+          <h6>
             Personal and non-personal information that we collect from you is
             used for a number of purposes:
-          </h2>
+          </h6>
           <p>
             It helps us to improve the content of our website or retail store
             environment.
@@ -29,7 +29,11 @@ const Policy = () => {
             company.
           </p>
           <p>It allows us to comply with legal and regulatory requirements.</p>
-          <p>add privacy policy</p>
+          <p>
+            Unless consent is given, we do not use or disclose your personal
+            information for the purposes other than those for which it was
+            collected.
+          </p>
         </div>
       </div>
     </Layout>
