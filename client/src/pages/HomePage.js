@@ -146,7 +146,9 @@ const HomePage = () => {
         </div>
         <div className="col-md-9">
           {JSON.stringify(radio, null, 4)}
-          <h1 className="text-center">All Products</h1>
+          <h1 className="text-center">Welcome to Shoe Mart</h1>
+
+          <h2 className="text-center">All Products</h2>
           <div className="d-flex flex-wrap">
             {products?.map((p) => (
               <div className="card m-2" style={{ width: "18rem" }}>
