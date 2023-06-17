@@ -20,7 +20,7 @@ const About = () => {
             looks, effortlessly taking you from the boardroom to the restaurant,
             to the park with your family. We strive to ensure your shopping
             experience is easy on your wallet, and your schedule, by delivering
-            fashion and value to everyone in your household.
+            fashion and value to everyone in your household..
           </p>
         </div>
       </div>
